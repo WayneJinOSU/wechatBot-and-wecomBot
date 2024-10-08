@@ -1,0 +1,46 @@
+[WARNING][2024-03-25 22:36:00][wenxin_bot.py:46] - [BAIDU] Exception: name 'session' is not defined
+[INFO][2024-03-25 22:36:38][wenxin_bot.py:19] - [BAIDU] model=wenxin-4
+[WARNING][2024-03-25 22:36:38][wenxin_bot.py:46] - [BAIDU] Exception: name 'BAIDU_API_KEY' is not defined
+[INFO][2024-03-25 22:37:06][wenxin_bot.py:19] - [BAIDU] model=wenxin-4
+[INFO][2024-03-25 22:37:06][wenxin_bot.py:35] - [BAIDU] response text={'error_code': 3, 'error_msg': 'Unsupported openapi method'}
+[WARNING][2024-03-25 22:37:06][wenxin_bot.py:46] - [BAIDU] Exception: 'result'
+[INFO][2024-03-25 22:39:39][wenxin_bot.py:19] - [BAIDU] model=wenxin-4
+[INFO][2024-03-25 22:39:39][wenxin_bot.py:36] - [BAIDU] response text={'error_code': 3, 'error_msg': 'Unsupported openapi method'}
+[WARNING][2024-03-25 22:39:39][wenxin_bot.py:47] - [BAIDU] Exception: 'result'
+[INFO][2024-03-25 22:45:41][wenxin_bot.py:19] - [BAIDU] model=wenxin-4
+[INFO][2024-03-25 22:57:51][wenxin_bot.py:22] - [BAIDU] model=wenxin-4
+[INFO][2024-03-25 22:57:52][wenxin_bot.py:40] - [BAIDU] response text={'error_code': 336002, 'error_msg': 'Invalid JSON', 'id': 'as-38ki3q24qr'}
+[WARNING][2024-03-25 22:57:52][wenxin_bot.py:51] - [BAIDU] Exception: 'result'
+[INFO][2024-03-25 22:58:12][wenxin_bot.py:22] - [BAIDU] model=wenxin-4
+[INFO][2024-03-25 22:58:12][wenxin_bot.py:41] - [BAIDU] response text={'error_code': 336002, 'error_msg': 'Invalid JSON', 'id': 'as-ca4usgwtwc'}
+[WARNING][2024-03-25 22:58:12][wenxin_bot.py:52] - [BAIDU] Exception: 'result'
+[INFO][2024-03-25 22:59:41][wenxin_bot.py:22] - [BAIDU] model=wenxin-4
+[INFO][2024-03-25 22:59:42][wenxin_bot.py:41] - [BAIDU] response text={'error_code': 336002, 'error_msg': 'Invalid JSON', 'id': 'as-dqhg8pr9zn'}
+[WARNING][2024-03-25 22:59:42][wenxin_bot.py:52] - [BAIDU] Exception: 'result'
+[INFO][2024-03-25 23:01:23][wenxin_bot.py:22] - [BAIDU] model=wenxin-4
+[INFO][2024-03-25 23:01:34][wenxin_bot.py:41] - [BAIDU] response text={'id': 'as-naenykj03a', 'object': 'chat.completion', 'created': 1711378893, 'result': '我是文心一言，英文名是ERNIE Bot。我可以完成的任务包括知识问答，文本创作，知识推理，数学计算，代码理解与编写，作画，翻译等。我可以尝试提供一些基于我所学习到的知识和经验的建议，但请您注意，我的回答可能存在不准确或不完整的情况。同时，我也会严格遵守相关的法律法规，注重用户隐私保护和数据安全。如果您有任何问题或需要帮助，请随时提出，我会尽力回答和协助您。', 'is_truncated': False, 'need_clear_history': False, 'finish_reason': 'normal', 'usage': {'prompt_tokens': 2, 'completion_tokens': 87, 'total_tokens': 89}}
+[INFO][2024-03-25 23:01:34][wenxin_bot.py:45] - [BAIDU] reply=我是文心一言，英文名是ERNIE Bot。我可以完成的任务包括知识问答，文本创作，知识推理，数学计算，代码理解与编写，作画，翻译等。我可以尝试提供一些基于我所学习到的知识和经验的建议，但请您注意，我的回答可能存在不准确或不完整的情况。同时，我也会严格遵守相关的法律法规，注重用户隐私保护和数据安全。如果您有任何问题或需要帮助，请随时提出，我会尽力回答和协助您。
+[INFO][2024-03-25 23:04:49][wenxin_bot.py:22] - [BAIDU] model=wenxin-4
+[INFO][2024-03-25 23:04:54][wenxin_bot.py:41] - [BAIDU] response text={'id': 'as-7xc2hg2j9i', 'object': 'chat.completion', 'created': 1711379093, 'result': '你好，我是百度研发的知识增强大语言模型，中文名是文心一言，英文名是ERNIE Bot。我能够与人对话互动，回答问题，协助创作，高效便捷地帮助人们获取信息、知识和灵感。', 'is_truncated': False, 'need_clear_history': False, 'finish_reason': 'normal', 'usage': {'prompt_tokens': 2, 'completion_tokens': 42, 'total_tokens': 44}}
+[INFO][2024-03-25 23:04:54][wenxin_bot.py:45] - [BAIDU] reply=你好，我是百度研发的知识增强大语言模型，中文名是文心一言，英文名是ERNIE Bot。我能够与人对话互动，回答问题，协助创作，高效便捷地帮助人们获取信息、知识和灵感。
+[INFO][2024-03-31 17:35:42][wenxin_bot.py:22] - [BAIDU] model=wenxin-4
+[INFO][2024-03-31 17:35:42][wenxin_bot.py:41] - [BAIDU] response text={'error_code': 17, 'error_msg': 'Open api daily request limit reached'}
+[WARNING][2024-03-31 17:35:42][wenxin_bot.py:52] - [BAIDU] Exception: 'result'
+[INFO][2024-04-10 11:21:52][wenxin_bot.py:22] - [BAIDU] model=wenxin-4
+[WARNING][2024-04-10 11:21:59][wenxin_bot.py:59] - [BAIDU] Exception: The content for this response was already consumed
+[INFO][2024-04-10 11:22:22][wenxin_bot.py:22] - [BAIDU] model=wenxin-4
+[WARNING][2024-04-10 11:22:30][wenxin_bot.py:59] - [BAIDU] Exception: The content for this response was already consumed
+[INFO][2024-04-10 11:22:52][wenxin_bot.py:22] - [BAIDU] model=wenxin-4
+[WARNING][2024-04-10 11:23:02][wenxin_bot.py:59] - [BAIDU] Exception: The content for this response was already consumed
+[INFO][2024-04-10 11:25:09][wenxin_bot.py:22] - [BAIDU] model=wenxin-4
+[INFO][2024-04-10 11:25:10][wenxin_bot.py:41] - [BAIDU] response text={'error_code': 3, 'error_msg': 'Unsupported openapi method'}
+[INFO][2024-04-10 11:25:10][wenxin_bot.py:46] - [BAIDU] reply=
+[INFO][2024-04-10 11:25:48][wenxin_bot.py:22] - [BAIDU] model=wenxin-4
+[INFO][2024-04-10 11:25:49][wenxin_bot.py:41] - [BAIDU] response text={'error_code': 3, 'error_msg': 'Unsupported openapi method'}
+[INFO][2024-04-10 11:25:49][wenxin_bot.py:46] - [BAIDU] reply=
+[INFO][2024-04-10 11:25:54][wenxin_bot.py:22] - [BAIDU] model=wenxin-4
+[INFO][2024-04-10 11:25:54][wenxin_bot.py:41] - [BAIDU] response text={'error_code': 3, 'error_msg': 'Unsupported openapi method'}
+[INFO][2024-04-10 11:25:54][wenxin_bot.py:46] - [BAIDU] reply=
+[INFO][2024-04-10 11:26:44][wenxin_bot.py:22] - [BAIDU] model=wenxin-4
+[INFO][2024-04-10 11:26:52][wenxin_bot.py:38] - [BAIDU] response text={'id': 'as-sb7dxkxiqg', 'object': 'chat.completion', 'created': 1712719612, 'result': '我是百度公司开发的人工智能语言模型，我的中文名是文心一言，英文名是ERNIE Bot，我可以为人类提供信息解决问题，比如回答问题，提供定义、解释和建议，也可以辅助人类进行创作产生新的内容，如文本生成与创作、文本改写等。如果您有任何问题，请随时向我提问。', 'is_truncated': False, 'need_clear_history': False, 'finish_reason': 'normal', 'usage': {'prompt_tokens': 2, 'completion_tokens': 62, 'total_tokens': 64}}
+[INFO][2024-04-10 11:26:52][wenxin_bot.py:42] - [BAIDU] reply=我是百度公司开发的人工智能语言模型，我的中文名是文心一言，英文名是ERNIE Bot，我可以为人类提供信息解决问题，比如回答问题，提供定义、解释和建议，也可以辅助人类进行创作产生新的内容，如文本生成与创作、文本改写等。如果您有任何问题，请随时向我提问。

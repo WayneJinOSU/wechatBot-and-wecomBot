@@ -1,0 +1,5 @@
+{
+  "company_id": "企业id",
+  "client_app_token": "Token",
+  "client_aes_key": "EncodingAESKey"
+}

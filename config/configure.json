@@ -1,0 +1,76 @@
+{
+  "BAIDU":{
+    "wenxin-4": {
+      "MODEL": "wenxin-4",
+      "API_KEY": "",
+      "SECRET_KEY": ""
+    }
+  },
+  "CLAUDE": {
+    "claude-3-opus": {
+      "MODEL": "claude-3-opus-20240229",
+      "API_KEY": "hk-",
+      "temperature": 1,
+      "max_tokens": 4096,
+      "top_p": 1,
+      "frequency_penalty": 0,
+      "presence_penalty": 1.0
+    }
+  },
+  "OPENAI": {
+    "gpt-4-turbo": {
+      "MODEL": "gpt-4-turbo-2024-04-09",
+      "API_KEY": "hk-",
+      "temperature": 1,
+      "max_tokens": 4096,
+      "top_p": 1,
+      "frequency_penalty": 0,
+      "presence_penalty": 1.0
+    },
+    "gpt-4o": {
+      "MODEL": "gpt-4o",
+      "API_KEY": "",
+      "temperature": 1,
+      "max_tokens": 4096,
+      "top_p": 1,
+      "frequency_penalty": 0,
+      "presence_penalty": 1.0
+    },
+    "gpt-4": {
+      "MODEL": "gpt-4",
+      "API_KEY": "",
+      "temperature": 1,
+      "max_tokens": 4096,
+      "top_p": 1,
+      "frequency_penalty": 0,
+      "presence_penalty": 1.0
+    }
+  },
+  "ALI": {
+     "qwen-plus": {
+      "MODEL": "qwen-plus",
+      "API_KEY": "",
+      "temperature": 1,
+      "top_p": 0.95,
+      "max_tokens": 2000
+     }
+  },
+  "MOONSHOT": {
+    "moonshot-v1-8k": {
+      "MODEL": "moonshot-v1-8k",
+      "API_KEY": "",
+      "temperature": 1,
+      "top_p": 1,
+      "frequency_penalty": 0,
+      "presence_penalty": 1
+    },
+    "moonshot-v1-32k": {
+      "MODEL": "moonshot-v1-32k",
+      "API_KEY": "",
+      "temperature": 1,
+      "top_p": 1,
+      "frequency_penalty": 0,
+      "presence_penalty": 1
+    }
+  }
+}
